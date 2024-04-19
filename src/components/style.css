@@ -1,0 +1,129 @@
+/*all body*/
+*{
+    overflow-x: hidden;
+}
+
+/*Header/Home css */
+
+.profile_pic{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.more-btn{
+    margin:2% 0 2% 10%;
+    font-Weight:bold; 
+    background-color:#FFAF45 !important;
+    border-Color:#FFAF45 !important;
+}
+.navbar{
+    justify-content: center !important;
+}
+.active{
+    font-weight: bold ;
+}
+
+/*for tab device*/
+@media screen and (max-width: 992px){
+    .profile{
+    width: 180px;
+    height: 180px;
+    margin-top: 20px !important;
+    
+    }
+    .custom-font{
+        font-size: 24px !important;
+        margin: 5px;
+    }
+    .p-text{
+        font-size: 12px;
+    }
+    .more-btn{
+        padding: 0px 5px 0px 5px !important;
+        font-size: small !important;
+    }
+    .h1-name{
+        font-weight: 800;
+        font-size: 20px;
+    }
+    .h2-name{
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .h3-name{
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .navbar{
+       justify-content: end !important;
+       margin: 2px 2px 2px 2px !important;
+    }
+    .nav{
+        background-color: black;
+        margin: 2px 2px 0px 10px;
+        width: 150px;
+    }
+    .navbar-toggler{
+        margin-left: 175px !important;
+        border: none !important;
+        border-radius: 0% !important;
+    }
+    .skill-image{
+        width: 50px;
+        height: 60px;
+        margin-right: 5px !important;
+    }
+    .edu-logo{
+        width: 70px;
+        height: 90px;
+    }
+    .work-logo{
+        width: 100px;
+        height: 70px;
+    }
+    .nav-link{
+        color: white !important;
+        padding-left: 20px !important;
+    }
+}
+
+/* For mobile device */
+@media screen and (max-width: 500px){
+    .profile{
+        width: 120px;
+        height: 120px;
+        margin-top: 20px !important;
+        
+        }
+
+}
+
+/*About*/
+
+.profile{
+    max-width: 300px;
+    max-height: 250px;
+    margin: 0% 0% 10% 10%;
+    padding: 0% !important;
+}
+.custom-font{
+    font-size: 32px;
+    margin: 5px;
+}
+
+/*work*/
+.work-logo{
+    margin-left:20% ;
+}
+/* Eduction Section */
+
+.edu-logo{
+   margin:  0% 0% 5% 20% ;
+}
+/* Content Me Section */
+.contact{
+    text-align: center;
+    margin-bottom: 20px;
+}
