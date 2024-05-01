@@ -4,8 +4,11 @@ let data = {
    "mobile_no":"+91 9967844399",
    "email_id":"chanan1999@gmail.com",
    "profic_pic":"images/profile_pic.png",
+    "profic_pic2":"images/profile_pic2.jpg",
    "github_url":"https://github.com/anantchaurasiya",
    "linkedin_url":"https://www.linkedin.com/in/anant-chaurasiya-5a2100215/",
+   "Resume_url":"https://drive.google.com/file/d/12lq_boNA_HfsPztEm_TkGH40C9GT00S7/view?usp=sharing",
+   "file_name":"Resume",
    "twitter_url":"https://twitter.com/_anant_20",
    "Skills":[{
     "logo":"images/skill/java.png",
@@ -105,6 +108,9 @@ let data = {
 ],
 "project":[{
 "pname": "Online Amdission System Management",
+"h-image":"images/project/project_home.png",
+"h-image2":"images/project/project_home2.png",
+"l-image":"images/project/project_login.png",
 "role":"Developer",
 "start-date":"Novemeber 2021",
 "end-date":"April 2022",

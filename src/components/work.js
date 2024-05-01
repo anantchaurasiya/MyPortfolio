@@ -5,7 +5,7 @@ function Work(){
 
     let ResDate = data;
     return(
-        <Container fluid='true' id="work">
+        <Container fluid='true' id="work" data-scroll-to="work">
             <h1 className="text-center p-3 h1-name"> Work History</h1>
             {ResDate.work_experience.map((item)=>
                         <Row>

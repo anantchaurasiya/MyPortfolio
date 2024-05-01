@@ -7,7 +7,7 @@ import "./style.css";
 function Contact(){
     let ResData = data;
     return(
-        <Container className="contact" id="contactUs" fluid='true'>
+        <Container className="contact" id="contactUs" fluid='true' data-scroll-to="contactUs">
             <h1 className="h1-name text-center p-3">Contact Me</h1>
             <h5 className="h2-name">Email: {ResData.email_id} | Mobile No: {ResData.mobile_no}</h5>
             <a href={ResData.linkedin_url} className="custom-font text-centre "><FaLinkedin /></a>

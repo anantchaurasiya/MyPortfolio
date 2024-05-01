@@ -6,11 +6,11 @@ import data from "../data";
 function About(){
     let ResData = data;
     return(
-        <Container id="about">
+        <Container id="about" data-scroll-to="about">
             <Row> 
                 <h1 className="text-center p-3 h1-name"> About Me</h1>
                 <Col>
-                <Image className="profile" src={ResData.profic_pic} roundedCircle/>
+                <Image className="profile" src={ResData.profic_pic2} roundedCircle/>
                 </Col>
                 <Col>
                 <p className="p-text"> I am professional experience in designing, developing, and implementing software solutions. a love of lifelong learning and staying current with new technology. capable of working with cross-functional teams to assess client requirements and meet deadlines while producing high-quality software.</p>

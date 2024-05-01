@@ -4,7 +4,7 @@ import data from "../data";
 function Education (){
     let ResData = data;
     return(
-        <Container id="education" fluid='true'>
+        <Container id="education" fluid='true' data-scroll-to="education">
             <h1 className="h1-name text-center p-3">Education</h1>
             {
                 ResData.education.map((item)=>

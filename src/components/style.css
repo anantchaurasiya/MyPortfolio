@@ -87,6 +87,9 @@
         color: white !important;
         padding-left: 20px !important;
     }
+    .project-carousel{
+        width: 100% !important;
+    }
 }
 
 /* For mobile device */
@@ -97,7 +100,6 @@
         margin-top: 20px !important;
         
         }
-
 }
 
 /*About*/
@@ -117,6 +119,12 @@
 .work-logo{
     margin-left:20% ;
 }
+
+/* Project section */
+.project-carousel{
+    width: 70%;
+}
+
 /* Eduction Section */
 
 .edu-logo{

@@ -4,7 +4,7 @@ import data from "../data";
 function Skills(){
     let ResData = data;
     return(
-        <Container id="skill">
+        <Container id="skill" data-scroll-to="skill">
             <h1 className="h1-name text-center p-3">Skills</h1>
                 {
                     ResData.Skills.map((item)=>{

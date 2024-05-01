@@ -2,7 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
-
+import DownloadButton from '../components/downloadbtn';
 import './style.css';
 import data from '../data';
 
@@ -12,7 +12,7 @@ function Header() {
     return(
         <>
             {/* <NavBaar /> */}
-            <Container fluid='true' id='home' className='shadow'>
+            <Container fluid='true' id='home' className='shadow' data-scroll-to="home">
                 <Row > 
                     <Col>
                         <h1 style={{margin:'25% 0 1% 10%'}}> 
@@ -23,6 +23,7 @@ function Header() {
                         <h4 style={{margin:'2% 0 2% 10%'}}> <span style={{background:'#FFAF45', padding:'2px 5px 2px 5px', letterSpacing:'0.5px', fontWeight:'bold'}} className='p-text mb-xs-05'>SOFTWARE ENGINEER</span></h4>
                         {/* <p className="p-text"style={{margin:'2% 0 2% 10%'}}> APPLICATION ENGINEER AT NEWGEN SOFTWARE</p> */}
                         {/* <Button className='more-btn 'style={{}} href='./about.js'>MORE ABOUT ME</Button> */}
+                        <DownloadButton fileUrl={ResData.Resume_url} fileName={ResData.file_name} />
                     </Col>
                     <Col>
                         <Image src={data.profic_pic} className="profile_pic" />
