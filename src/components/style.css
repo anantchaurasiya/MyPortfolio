@@ -90,6 +90,9 @@
     .project-carousel{
         width: 100% !important;
     }
+    .more-btn{
+        margin-bottom: 20 px;
+    }
 }
 
 /* For mobile device */

@@ -13,7 +13,7 @@ const DownloadButton = ({ fileUrl, fileName }) => {
   };
 
   return (
-    <Button variant="primary" onClick={handleDownload} className='more-btn'>
+    <Button onClick={handleDownload} className='more-btn'>
       {fileName}
     </Button>
   );
