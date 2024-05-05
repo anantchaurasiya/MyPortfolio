@@ -3,7 +3,7 @@ let data = {
    "lname":"CHAURASIYA",
    "mobile_no":"+91 9967844399",
    "email_id":"chanan1999@gmail.com",
-   "profic_pic":"images/profile_pic.png",
+   "profic_pic":"MyPortfolio/images/profile_pic.png",
     "profic_pic2":"images/profile_pic2.jpg",
    "github_url":"https://github.com/anantchaurasiya",
    "linkedin_url":"https://www.linkedin.com/in/anant-chaurasiya-5a2100215/",
