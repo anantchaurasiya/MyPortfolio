@@ -12,7 +12,7 @@ let data = {
 >>>>>>> 5e9a5a6a72e9f3cac27572ab44ca0b3c6c2b4965
    "github_url":"https://github.com/anantchaurasiya",
    "linkedin_url":"https://www.linkedin.com/in/anant-chaurasiya-5a2100215/",
-   "Resume_url":"https://drive.google.com/uc?export=download&id=12lq_boNA_HfsPztEm_TkGH40C9GT00S7",
+   "Resume_url":"https://drive.google.com/file/d/1hedWkzwrQXdfaAjzWiWzSlkvfGxqPhVY/view?usp=sharing",
    
    "file_name":"Resume",
    "twitter_url":"https://twitter.com/_anant_20",
