@@ -13,7 +13,7 @@ function Header() {
         <>
             {/* <NavBaar /> */}
             <Container fluid='true' id='home' className='shadow' data-scroll-to="home">
-                <Row > 
+                <Row  align-items="center" className="align-items-center" > 
                     <Col>
                         <h1 style={{margin:'25% 0 1% 10%'}}> 
                             <span className='h1-name' style={{fontWeight:'bold', marginBottom:'10%'}}>HI THERE!</span> <br/> 

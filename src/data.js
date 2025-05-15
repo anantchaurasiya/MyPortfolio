@@ -3,13 +3,8 @@ let data = {
    "lname":"CHAURASIYA",
    "mobile_no":"+91 9967844399",
    "email_id":"chanan1999@gmail.com",
-<<<<<<< HEAD
    "profic_pic":"MyPortfolio/images/profile_pic.png", 
     "profic_pic2":"MyPortfolio/images/profile_pic2.jpg",
-=======
-   "profic_pic":"MyPortfolio/images/profile_pic.png",
-    "profic_pic2":"images/profile_pic2.jpg",
->>>>>>> 5e9a5a6a72e9f3cac27572ab44ca0b3c6c2b4965
    "github_url":"https://github.com/anantchaurasiya",
    "linkedin_url":"https://www.linkedin.com/in/anant-chaurasiya-5a2100215/",
    "Resume_url":"https://drive.google.com/file/d/1hedWkzwrQXdfaAjzWiWzSlkvfGxqPhVY/view?usp=sharing",
