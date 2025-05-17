@@ -15,7 +15,7 @@ function Skills(){
                                         width={100}
                                         height={120}
                                         alt={item.point}
-                                        src={item.logo}
+                                        src={`/${item.logo}`}
                                     />
                                     <Figure.Caption className="text-center">
                                     {item.tstack}
