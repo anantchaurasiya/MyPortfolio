@@ -7,7 +7,7 @@ let data = {
    "profic_pic2":"images/profile_pic2.jpg",
    "github_url":"https://github.com/anantchaurasiya",
    "linkedin_url":"https://www.linkedin.com/in/anant-chaurasiya-5a2100215/",
-   "Resume_url":"https://drive.google.com/file/d/1T746co3QlWqpvVVTTD7sWrNdhI45OSGI/view?usp=sharing",
+   "Resume_url":"https://drive.google.com/file/d/1vjfwu8X1cUGAaBs1uuKoTuRLe5eB877t/view?usp=sharing",
    "file_name":"Resume",
    "twitter_url":"https://twitter.com/_anant_20",
    "Skills":[{
@@ -105,13 +105,25 @@ let data = {
    }
 
 ],
-"project":[{
-"pname": "Online Amdission System Management",
+"project":[
+ {
+"pname": "RESTful Web Services with Java and Jersey",
+"h-image": "/images/project/rest.png",
+"h-image2": "/images/project/rest1.png",
+"l-image": "/images/project/rest2.png",
+"role": "Developer",
+"start-date":"March 2024",
+"end-date":"March 2024",
+"desc":"This project demonstrates the implementation of RESTful web services using Java and Jersey for car details management. It covers CRUD (create, read, update, delete) operations. Initially, using a mock database and then integrating with an actual database. Additionally, it includes error-handling mechanisms for better reliability and robustness.",
+"tech_used":"Java, Rest API, Github, SQL, Postman, JPA.",
+},  
+{
+"pname": "Online Admission System Management",
 "h-image":"images/project/project_home.png",
 "h-image2":"images/project/project_home2.png",
 "l-image":"images/project/project_login.png",
 "role":"Developer",
-"start-date":"Novemeber 2021",
+"start-date":"November 2021",
 "end-date":"April 2022",
 "desc":"I designed a website that can run and make the admission process easier a lot more effective and less time-consuming. The hassle of standing in a queue, submitting documents online, and booking the seat for the candidate would be erased.",
 "tech_used":"ASP.Net MVC, HTML/CSS, Bootstrap, JavaScript,SQL",

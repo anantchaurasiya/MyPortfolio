@@ -11,7 +11,6 @@ function Header() {
     let ResData = data;
     return(
         <>
-            {/* <NavBaar /> */}
             <Container fluid='true' id='home' className='shadow' data-scroll-to="home">
                 <Row  align-items="center" className="align-items-center" > 
                     <Col>
@@ -21,8 +20,6 @@ function Header() {
                             <span className='h1-name'style={{color:'#FFAF45', fontSize:'125%', letterSpacing:'0.5px'}}>{ResData.fname}</span>
                         </h1>
                         <h4 style={{margin:'2% 0 2% 10%'}}> <span style={{background:'#FFAF45', padding:'2px 5px 2px 5px', letterSpacing:'0.5px', fontWeight:'bold'}} className='p-text mb-xs-05'>SOFTWARE ENGINEER</span></h4>
-                        {/* <p className="p-text"style={{margin:'2% 0 2% 10%'}}> APPLICATION ENGINEER AT NEWGEN SOFTWARE</p> */}
-                        {/* <Button className='more-btn 'style={{}} href='./about.js'>MORE ABOUT ME</Button> */}
                         <DownloadButton fileUrl={ResData.Resume_url} fileName={ResData.file_name} />
                     </Col>
                     <Col>
