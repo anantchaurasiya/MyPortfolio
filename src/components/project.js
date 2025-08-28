@@ -9,7 +9,7 @@ function Project(){
                 <h1 className="h1-name text-center p-3"> Project</h1>
                 {ResData.project.map((item)=>
                     <div key={item.pname}>
-                        <Row>
+                        <Row className="mb-2">
                             <Col>
                                 <Carousel className="project-carousel">
                                     <Carousel.Item>
