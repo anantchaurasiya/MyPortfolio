@@ -7,7 +7,7 @@ let data = {
    "profic_pic2":"images/profile_pic2.jpg",
    "github_url":"https://github.com/anantchaurasiya",
    "linkedin_url":"https://www.linkedin.com/in/anant-chaurasiya-5a2100215/",
-   "Resume_url":"https://docs.google.com/document/d/1J2mBKyFVbO48FaNKKtHHNUoejPFaVl3tzLpGxsSQJDc/edit?usp=sharing",
+   "Resume_url":"https://drive.google.com/file/d/15x9wdrE9EhBv53k7EvzL_WQzxkGSCn7r/view?usp=sharing",
    "file_name":"Resume",
    "twitter_url":"https://twitter.com/_anant_20",
    "Skills":[{
