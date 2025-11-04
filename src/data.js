@@ -66,11 +66,6 @@ let data = {
     "point":"90"
    },
    {
-    "logo":"images/skill/django.png",
-    "tstack": "Django",
-    "point":"60"
-   },
-   {
     "logo":"images/skill/soft-skills.png",
     "tstack": "Problem solving",
     "point":"80"
@@ -134,7 +129,7 @@ let data = {
 "start-date":"November 2021",
 "end-date":"April 2022",
 "desc":"I designed a website that can run and make the admission process easier, a lot more effective and less time-consuming. The hassle of standing in a queue, submitting documents online, and booking the seat for the candidate would be erased.",
-"tech_used":"ASP.NET MVC, HTML/CSS, Bootstrap, JavaScript , SQL",
+"tech_used":"ASP.NET MVC, HTML/CSS, Bootstrap, JavaScript, SQL",
 }
 ],
 "education":[{
