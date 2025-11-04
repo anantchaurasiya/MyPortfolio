@@ -90,18 +90,26 @@ let data = {
    "work_experience":[{
     "logo":"images/Newgen.png",
     "cname":"Newgen Software",
+    "role":"Senior Software Engineer",
+    "start-date":"October 2025",
+    "end-date":"Present",
+    "tech_used":"Java, Spring Boot, JavaScript REST API, SQL"
+   },
+   {
+    "logo":"images/Newgen.png",
+    "cname":"Newgen Software",
     "role":"Application Engineer",
     "start-date":"July 2022",
-    "end-date":"Present",
+    "end-date":"October 2025",
     "tech_used":"Java, Spring Boot, JavaScript REST API, SQL"
    },
    {
     "logo":"images/EDIIFY.png",
     "cname":"EDIIFY",
-    "role":"Software devloper Intern",
+    "role":"Software Developer Intern",
     "start-date":"November 2021",
-    "end-date":"March 2022",
-    "tech_used":"ASP.Net MVC, HTML/CSS, Bootstrap, JavaScript,SQL"
+    "end-date": "March 2022",
+    "tech_used": "ASP.NET MVC, HTML/CSS, Bootstrap, JavaScript, SQL"
    }
 
 ],
@@ -125,14 +133,14 @@ let data = {
 "role":"Developer",
 "start-date":"November 2021",
 "end-date":"April 2022",
-"desc":"I designed a website that can run and make the admission process easier a lot more effective and less time-consuming. The hassle of standing in a queue, submitting documents online, and booking the seat for the candidate would be erased.",
-"tech_used":"ASP.Net MVC, HTML/CSS, Bootstrap, JavaScript,SQL",
+"desc":"I designed a website that can run and make the admission process easier, a lot more effective and less time-consuming. The hassle of standing in a queue, submitting documents online, and booking the seat for the candidate would be erased.",
+"tech_used":"ASP.NET MVC, HTML/CSS, Bootstrap, JavaScript , SQL",
 }
 ],
 "education":[{
     "logo":"images/SIGCE.png",
-    "Uname": "Smt. Indira Gandhi College Of Engineering | Mumbai University",
-    "Degree": "Bechelor's Of Engineering",
+    "Uname": "Smt. Indira Gandhi College of Engineering | Mumbai University",
+    "Degree": "Bachelor's Of Engineering",
     "start-date":"June 2018",
     "end-date":"June 2022",
     },
